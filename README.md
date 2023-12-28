@@ -5,8 +5,9 @@ I'm currently studying for frontend development.
 
 #### And here some of my projects:
 
-- [My web site](https://github.com/ilyasemenov1/si1ogdev)
-- [Liceum1 Vsevolozhsk](https://github.com/ilyasemenov1/Liceum1WebSitePreview)
-- [Weather app](https://github.com/ilyasemenov1/Weather_application_v1.4x_stable)
-  - [v1.3x](https://github.com/ilyasemenov1/Weather_application_v1.3x_stable)
-- [My photos gallery](https://github.com/ilyasemenov1/gallery)
+- [My web site](https://si1ogdev.ru/)
+- [Liceum1 Vsevolozhsk](https://liceum1.si1ogdev.ru/)
+- [Weather app](https://weather-app.si1ogdev.ru/)
+  - [Vanilla js version](https://weather-app.website.yandexcloud.net/)
+  - [v1.3x](https://weather-app-v1.3x.website.yandexcloud.net/)
+- [My photos gallery](https://gallery.si1ogdev.ru/)
