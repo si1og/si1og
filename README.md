@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### My name is Ilya Semenov
 
-I'm currently studying for frontend development.
+I'm [spbstu](https://www.spbstu.ru/) student.
 
 #### And here some of my projects:
 
