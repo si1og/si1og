@@ -1,9 +1,9 @@
 ### Hi there 👋
 #### My name is Ilya Semenov
 
-I'm [spbstu](https://www.spbstu.ru/) student.
+I'm [SPbPU](https://www.spbstu.ru/) student.
 
-#### And here some of my projects:
+#### Here some of my projects:
 
 - [My web site](https://si1ogdev.ru/)
 - [Liceum1 Vsevolozhsk](https://liceum1.si1ogdev.ru/)
